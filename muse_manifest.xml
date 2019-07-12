@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eymardsilva.github.io" resolutions="1x" timestamp="1562889124136">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eymardsilva.github.io" resolutions="1x" timestamp="1562890871044">
   <folder name="css">
     <file name="site_global.css" crc="3925136354"/>
-    <file name="index.css" crc="64080549" ref="index"/>
-    <file name="iefonts_index.css" crc="3799610632" ref="index"/>
+    <file name="index.css" crc="259709691" ref="index"/>
+    <file name="iefonts_index.css" crc="306951981" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="github.png" crc="4257238908" seo="true" mt="1562636820000"/>
@@ -52,17 +52,18 @@
     </file>
     <file name="btn-close.png" crc="304021129" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="code-944499_1280-crop-u5108.jpg" crc="3885657045" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mobile-crop-u5086.png" crc="4284817477" seo="true" ref="phone>index">
+    <file name="mobile-crop-u5086.png" crc="509891476" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ezgifcom-webp-to-png198x126.jpg" crc="4194793995" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="flutter-crop-u5094.jpg" crc="3983774640" seo="true" ref="phone>index">
+    <file name="flutter-crop-u5094.jpg" crc="37428225" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eswarelogo_fb-crop-u5110.jpg" crc="138119028" seo="true" ref="phone>index">
@@ -120,17 +121,18 @@
     <file name="iphone_silver.png" crc="534399090" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="github-u9097-fr.png" crc="4007576342" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3856591506" ref="phone>index:phone>ryan"/>
-      <file name="index.css" crc="3982078444" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="3974879657" ref="phone>index"/>
+      <file name="index.css" crc="3857620417" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4294127214" ref="phone>index"/>
       <file name="ryan.css" crc="152106964" ref="phone>ryan"/>
       <file name="iefonts_ryan.css" crc="4064429898" ref="phone>ryan"/>
     </folder>
-    <file name="index.html" crc="3967921796" seo="true" mt="1562889011537" redirect="true"/>
+    <file name="index.html" crc="49140741" seo="true" mt="1562890852888" redirect="true"/>
     <file name="ryan.html" crc="3909262154" seo="true" mt="1562888831447" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4027005396" seo="true" mt="1562889109232" redirect="true"/>
+  <file name="index.html" crc="386597274" seo="true" mt="1562890750280" redirect="true"/>
 </manifest>
